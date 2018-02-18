@@ -9,7 +9,7 @@
  * * basis, WITHOUT WARRANTY OF ANY KIND, either express or implied. See the
  * * License for the specific  language  governing  rights  and  limitations
  * * under the License.
- * * The Original Code is FLOREANT POS.
+ * * The Original Code is Infinity POS.
  * * The Initial Developer of the Original Code is OROCUBE LLC
  * * All portions are Copyright (C) 2015 OROCUBE LLC
  * * All Rights Reserved.
@@ -64,7 +64,7 @@ public class UpdateDialog extends POSDialog {
 		JLabel logoLabel = new JLabel(IconFactory.getIcon("/icons/", "fp_logo128x128.png")); //$NON-NLS-1$ //$NON-NLS-2$
 		panel.add(logoLabel, "cell 0 0 0 2");
 
-		JLabel l = new JLabel("<html><h1>Floreant POS</h1><h4>Current Version " + Application.VERSION + "</h4></html>"); //$NON-NLS-1$ //$NON-NLS-2$
+		JLabel l = new JLabel("<html><h1>INFINITY POS</h1><h4>Current Version " + Application.VERSION + "</h4></html>"); //$NON-NLS-1$ //$NON-NLS-2$
 		panel.add(l, "cell 0 2");
 
 		String version = "";

@@ -9,7 +9,7 @@
  * * basis, WITHOUT WARRANTY OF ANY KIND, either express or implied. See the
  * * License for the specific  language  governing  rights  and  limitations
  * * under the License.
- * * The Original Code is FLOREANT POS.
+ * * The Original Code is Infinity POS.
  * * The Initial Developer of the Original Code is OROCUBE LLC
  * * All portions are Copyright (C) 2015 OROCUBE LLC
  * * All Rights Reserved.
@@ -312,7 +312,7 @@ public class MultiPrinterPane extends JPanel {
 			String data = printer.getDeviceName() + "-" + printer.getVirtualPrinter().getName(); //$NON-NLS-1$
 			data += "\n Terminal : " + Application.getInstance().getTerminal().getName(); //$NON-NLS-1$
 			data += "\n Current User : " + Application.getCurrentUser().getFirstName(); //$NON-NLS-1$
-			data += "\n Floreant Version : " + Application.VERSION; //$NON-NLS-1$
+			data += "\n Infinity Version : " + Application.VERSION; //$NON-NLS-1$
 			data += "\n Database Name : " + AppConfig.getDatabaseName() + AppConfig.getDatabaseHost() + AppConfig.getDatabasePort(); //$NON-NLS-1$
 			ReceiptPrintService.testPrinter(printer.getDeviceName(), title, data);
 
