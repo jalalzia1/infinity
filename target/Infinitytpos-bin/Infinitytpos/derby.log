@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Sun Feb 18 18:47:20 PKT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077): instance a816c00e-0161-a92b-4464-000005b8bc00 
+on database directory E:\SolsCrowd Work\infinitypos\floreantpos-code-1707-trunk\floreantpos-code-1707-trunk\target\Infinitytpos-bin\Infinitytpos\database\derby-single\posdb  with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@69222c14 
+Loaded from file:/E:/SolsCrowd%20Work/infinitypos/floreantpos-code-1707-trunk/floreantpos-code-1707-trunk/target/Infinitytpos-bin/Infinitytpos/lib/derby-10.8.1.2.jar
+java.vendor=Oracle Corporation
+java.runtime.version=9.0.4+11
+user.dir=E:\SolsCrowd Work\infinitypos\floreantpos-code-1707-trunk\floreantpos-code-1707-trunk\target\Infinitytpos-bin\Infinitytpos
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

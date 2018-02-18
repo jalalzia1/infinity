@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <zip basedir="E:\SolsCrowd Work\infinitypos\floreantpos-code-1707-trunk\floreantpos-code-1707-trunk\target/Infinitytpos-bin/Infinitytpos" destfile="E:\SolsCrowd Work\infinitypos\floreantpos-code-1707-trunk\floreantpos-code-1707-trunk\target/Infinitytpos-1.4-build${buildNumber}.zip"></zip>
+</target>
+</project>

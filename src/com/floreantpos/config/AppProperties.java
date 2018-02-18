@@ -34,7 +34,7 @@ public class AppProperties {
 	}
 	
 	public static String getVersion() {
-		return properties.getString("floreantpos.version"); //$NON-NLS-1$
+		return properties.getString("infinitypos.version"); //$NON-NLS-1$
 		
 	}
 }

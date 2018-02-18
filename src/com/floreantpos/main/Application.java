@@ -110,8 +110,10 @@ public class Application {
 	private boolean systemInitialized;
 	private boolean headLess = false;
 
-	public final static String VERSION = AppProperties.getVersion();
-
+	public final static String VERSION;
+	
+	static { VERSION = AppProperties.getVersion();
+	}
 	private Application() {
 
 	}
